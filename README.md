@@ -13,9 +13,11 @@ This repository serves as a quickstart template for building a Godot Android plu
   [`plugin/src/main/java`](plugin/src/main/java)
 
 ## Usage
-**Note:** [Android Studio](https://developer.android.com/studio) is the recommended IDE for
+**Note:** 
+- [Android Studio](https://developer.android.com/studio) is the recommended IDE for
 developing Godot Android plugins. 
 You can install the latest version from https://developer.android.com/studio.
+- Java 17 is the minimum required Java version.
 
 To use this template, log in to github and click the green "Use this template" button at the top 
 of the repository page.
